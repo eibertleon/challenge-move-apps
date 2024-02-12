@@ -12,7 +12,7 @@
 	<artifactId>challenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>challenge</name>
-	<description>Challenge MoveApps Demo</description>
+	<description>Challenge MoveApps - NUEVO SPA</description>
 	<properties>
 		<java.version>17</java.version>
 		<org.mapstruct.version>1.5.1.Final</org.mapstruct.version>

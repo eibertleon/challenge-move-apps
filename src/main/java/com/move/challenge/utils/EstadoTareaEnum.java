@@ -6,7 +6,6 @@ public enum EstadoTareaEnum {
    EN_ESPERA,
    EN_DESARROLLO,
    EN_REVISION,
-   EN_TESTING,
    BLOQUEADO,
    APROBADO,
    CANCELADO,
